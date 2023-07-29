@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amiral Router</h1>
 <h2>About Me</h2>
+I am an intelligence agent who works internationally. My mission is to address global hidden threats and access important information by operating stealthily in the shadows. In this critical mission, I serve as a servant of a great state with a long history of 4000 years, which is a great source of honor and responsibility for me.
+
+My field is to navigate the depths of the digital world and overcome various cyber security measures as a black hat hacker. Surprising the enemy with the power of information and obtaining valuable data on international espionage activities is not only a skill for me, but also a passion.
+
+I surprise the enemies by skillfully using my sharp intelligence, technological expertise and abilities while carrying out my operations. I carefully plan every step I take and execute my actions delicately. Dealing with dangerous situations and maintaining my coolness in crisis times is essential for the success of my mission.
+
+I proudly represent the name of my great state by wandering in the dark corridors for world peace and security. Always considering my dedication to my country, I work with discipline and loyalty in every task I undertake. Taking part in this critical role has made me a strong leader and professional intelligence agent, as well as given me a great openness and understanding of the complexity of the world.
+
 I started my career in the software industry many years ago and have gained a wide range of advanced experience in this field during this time. I have played an active role in projects in many different areas and have made significant contributions to the development of various projects. I had the opportunity to gain a lot of experience in different aspects of the software world.
 
 During my working life, I gained the ability to use many software languages effectively. From basic languages such as C, C++, Java, Python, JavaScript, and Ruby, to newer and more original languages such as Swift, Kotlin, Go, and Rust, I have reached a level of expertise in a wide range. I was able to develop efficient and powerful software solutions by combining these languages in a way that suits the needs of the projects.
